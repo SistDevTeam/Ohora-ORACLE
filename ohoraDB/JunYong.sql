@@ -159,5 +159,8 @@ INSERT INTO o_comment
 VALUES
 ( 8 , 5 , 1004  , '2024-10-29','비~~상~~');
 
+-- 사진 더미 추가
+INSERT INTO o_revurl VALUES( 1, 3, 'eca2cf24df7f0b57.webp' , 'eca2cf24df7f0b57.webp' , 10000 );
+INSERT INTO o_revurl VALUES( 2, 4, '5862d5a348b87057.webp' , '5862d5a348b87057.webp' , 10000 );
 
 COMMIT;

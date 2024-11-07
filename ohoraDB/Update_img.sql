@@ -182,13 +182,13 @@ UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image
 UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/product_img_6.jpg' WHERE pdt_id = 181;
 UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/product_img_8.jpg' WHERE pdt_id = 182;
 -- 추가 상품 이미지
-UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_2.jpg' WHERE pdt_id = 169;
-UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_1.jpg' WHERE pdt_id = 170;
+UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_1.jpg' WHERE pdt_id = 169;
+UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_2.jpg' WHERE pdt_id = 170;
 UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_3.jpg' WHERE pdt_id = 171;
-UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_3.jpg' WHERE pdt_id = 172;
-UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_2.jpg' WHERE pdt_id = 173;
-UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_1.jpg' WHERE pdt_id = 174;
-UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_3.jpg' WHERE pdt_id = 175;
+UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_4.jpg' WHERE pdt_id = 172;
+UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_5.jpg' WHERE pdt_id = 173;
+UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_6.jpg' WHERE pdt_id = 174;
+UPDATE o_product SET pdt_img_url = '/projectOhora/resources/images/product_image/addproduct_img_7.jpg' WHERE pdt_id = 175;
 -- 호버용 상품 이미지
 UPDATE o_product SET pdt_img_url2 = '/projectOhora/resources/images/product_image/product_img_8.jpg' WHERE pdt_id = 1;
 UPDATE o_product SET pdt_img_url2 = '/projectOhora/resources/images/product_image/product_img_7.jpg' WHERE pdt_id = 2;

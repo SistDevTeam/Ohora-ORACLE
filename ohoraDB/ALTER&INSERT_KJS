@@ -1361,4 +1361,12 @@ UPDATE o_product SET pdt_img_url2 = '/projectOhora/resources/images/product_imag
 UPDATE o_product SET pdt_img_url2 = '/projectOhora/resources/images/product_image/product_img_6.jpg' WHERE pdt_id = 181;
 UPDATE o_product SET pdt_img_url2 = '/projectOhora/resources/images/product_image/product_img_1.jpg' WHERE pdt_id = 182;
 
+UPDATE o_product
+SET pdt_count = 50
+WHERE pdt_id BETWEEN 1 AND 182;
+--
+UPDATE o_pdtoption
+SET opt_count = 50
+WHERE opt_id BETWEEN 1 AND 28;
+
 COMMIT;
